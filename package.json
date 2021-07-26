@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.0.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "nodejs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosaugus1o/cursonode.git"
+  },
+  "keywords": [
+    "npm",
+    "nodejs",
+    "js",
+    "rest",
+    "api"
+  ],
+  "author": "Carlos Lima",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/carlosaugus1o/cursonode/issues"
+  },
+  "homepage": "https://github.com/carlosaugus1o/cursonode#readme",
+  "description": ""
+}
